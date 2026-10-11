@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "target": "127.0.0.1",
+    "scan_type": "full",
+    "ports": "1-1000",
+    "scanned_at": "2026-10-10T19:19:56"
+  },
+  "hosts": [
+    {
+      "ip": "127.0.0.1",
+      "hostname": "localhost",
+      "state": "up",
+      "mac": "N/A",
+      "vendor": "N/A"
+    }
+  ],
+  "port_scan": [
+    {
+      "ip": "127.0.0.1",
+      "hostname": "localhost",
+      "state": "up",
+      "os_match": "N/A",
+      "ports": [
+        {
+          "protocol": "tcp",
+          "port": 135,
+          "state": "open",
+          "service": "msrpc",
+          "product": "Microsoft Windows RPC",
+          "version": "",
+          "extrainfo": ""
+        },
+        {
+          "protocol": "tcp",
+          "port": 137,
+          "state": "filtered",
+          "service": "netbios-ns",
+          "product": "",
+          "version": "",
+          "extrainfo": ""
+        },
+        {
+          "protocol": "tcp",
+          "port": 445,
+          "state": "open",
+          "service": "microsoft-ds",
+          "product": "",
+          "version": "",
+          "extrainfo": ""
+        },
+        {
+          "protocol": "tcp",
+          "port": 902,
+          "state": "open",
+          "service": "vmware-auth",
+          "product": "VMware Authentication Daemon",
+          "version": "1.10",
+          "extrainfo": "Uses VNC, SOAP"
+        },
+        {
+          "protocol": "tcp",
+          "port": 912,
+          "state": "open",
+          "service": "vmware-auth",
+          "product": "VMware Authentication Daemon",
+          "version": "1.0",
+          "extrainfo": "Uses VNC, SOAP"
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "total_hosts_alive": 1,
+    "total_hosts_scanned": 1,
+    "total_open_ports": 4
+  }
+}

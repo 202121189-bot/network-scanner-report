@@ -1,0 +1,1808 @@
+{
+  "metadata": {
+    "target": "192.168.1.0/24",
+    "scan_type": "full",
+    "ports": "1-1000",
+    "scanned_at": "2026-10-10T19:08:21"
+  },
+  "hosts": [
+    {
+      "ip": "192.168.1.0",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.1",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.10",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.100",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.101",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.102",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.103",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.104",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.105",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.106",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.107",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.108",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.109",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.11",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.110",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.111",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.112",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.113",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.114",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.115",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.116",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.117",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.118",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.119",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.12",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.120",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.121",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.122",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.123",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.124",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.125",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.126",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.127",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.128",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.129",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.13",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.130",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.131",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.132",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.133",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.134",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.135",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.136",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.137",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.138",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.139",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.14",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.140",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.141",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.142",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.143",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.144",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.145",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.146",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.147",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.148",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.149",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.15",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.150",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.151",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.152",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.153",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.154",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.155",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.156",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.157",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.158",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.159",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.16",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.160",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.161",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.162",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.163",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.164",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.165",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.166",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.167",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.168",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.169",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.17",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.170",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.171",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.172",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.173",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.174",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.175",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.176",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.177",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.178",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.179",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.18",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.180",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.181",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.182",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.183",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.184",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.185",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.186",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.187",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.188",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.189",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.19",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.190",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.191",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.192",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.193",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.194",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.195",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.196",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.197",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.198",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.199",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.2",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.20",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.200",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.201",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.202",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.203",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.204",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.205",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.206",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.207",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.208",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.209",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.21",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.210",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.211",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.212",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.213",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.214",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.215",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.216",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.217",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.218",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.219",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.22",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.220",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.221",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.222",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.223",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.224",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.225",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.226",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.227",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.228",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.229",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.23",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.230",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.231",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.232",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.233",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.234",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.235",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.236",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.237",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.238",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.239",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.24",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.240",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.241",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.242",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.243",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.244",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.245",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.246",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.247",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.248",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.249",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.25",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.250",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.251",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.252",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.253",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.254",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.255",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.26",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.27",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.28",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.29",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.3",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.30",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.31",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.32",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.33",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.34",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.35",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.36",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.37",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.38",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.39",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.4",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.40",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.41",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.42",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.43",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.44",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.45",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.46",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.47",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.48",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.49",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.5",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.50",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.51",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.52",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.53",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.54",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.55",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.56",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.57",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.58",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.59",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.6",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.60",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.61",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.62",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.63",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.64",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.65",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.66",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.67",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.68",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.69",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.7",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.70",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.71",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.72",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.73",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.74",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.75",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.76",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.77",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.78",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.79",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.8",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.80",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.81",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.82",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.83",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.84",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.85",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.86",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.87",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.88",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.89",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.9",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.90",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.91",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.92",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.93",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.94",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.95",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.96",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.97",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.98",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    },
+    {
+      "ip": "192.168.1.99",
+      "hostname": "N/A",
+      "state": "down",
+      "mac": "N/A",
+      "vendor": "N/A"
+    }
+  ],
+  "port_scan": [],
+  "summary": {
+    "total_hosts_alive": 256,
+    "total_hosts_scanned": 0,
+    "total_open_ports": 0
+  }
+}

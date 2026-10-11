@@ -1,0 +1,5 @@
+ip,hostname,protocol,port,service,product,version
+127.0.0.1,localhost,tcp,135,msrpc,Microsoft Windows RPC,
+127.0.0.1,localhost,tcp,445,microsoft-ds,,
+127.0.0.1,localhost,tcp,902,vmware-auth,VMware Authentication Daemon,1.10
+127.0.0.1,localhost,tcp,912,vmware-auth,VMware Authentication Daemon,1.0

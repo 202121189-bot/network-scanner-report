@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "target": "127.0.0.1",
+    "scan_type": "discovery",
+    "ports": "1-1000",
+    "scanned_at": "2026-10-10T19:13:24"
+  },
+  "hosts": [
+    {
+      "ip": "127.0.0.1",
+      "hostname": "localhost",
+      "state": "up",
+      "mac": "N/A",
+      "vendor": "N/A"
+    }
+  ],
+  "port_scan": [],
+  "summary": {
+    "total_hosts_alive": 1,
+    "total_hosts_scanned": 0,
+    "total_open_ports": 0
+  }
+}
